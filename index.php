@@ -19,4 +19,3 @@ $data=array(
 		'projects'=>$sqldatas
 );
 $parser->parse($data,"views/home.html");
-?>
